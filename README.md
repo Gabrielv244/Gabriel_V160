@@ -2,7 +2,7 @@
 ## My name is Gabriel Vitor and my nickname is "Biel244"!
 
 <div>
-            ![Snake animation](https://github.com/Gabrielv244/Gabrielv244/blob/output/github-contribution-grid-snake.svg)
+            [Snake animation](https://github.com/Gabrielv244/Gabrielv244/blob/output/github-contribution-grid-snake.svg)
 
 <a href="[https://github.com/gabrielv244](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Gabrielv244&layout=compact&langs_count=7&theme=blue-green"/>
