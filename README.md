@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gabriel Vitor and my nickname is "Biel244"!
 <div>
- ![Snake animation](https://github.com/gabrielv244/gabrielv244/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Gabrielv244/Gabriel_V160/blob/output/github-contribution-grid-snake.svg)
 
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
